@@ -1,0 +1,29 @@
+{
+    "name": "@jjy/graphjs",
+    "version": "0.1.0",
+    "description": "A Javascript library built on SVG for visualizing graphs (in the graph theory sense).",
+    "main": "src/lib/Graph.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jjayeon/graphjs.git"
+    },
+    "keywords": [
+        "graph",
+        "svg",
+        "graphtheory",
+        "pathfinding",
+        "graphics"
+    ],
+    "author": "jjayeon",
+    "license": "LGPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/jjayeon/graphjs/issues"
+    },
+    "homepage": "https://github.com/jjayeon/graphjs#readme",
+    "dependencies": {
+        "@svgdotjs/svg.js": "^3.0.16"
+    }
+}
